@@ -1,0 +1,34 @@
+title: Ankit Dhiman
+logo: /assets/img/logo.jpg
+email: dhimanankit262@gmail.com
+description: My journey trying to create my dent in the universe.
+favicon: true
+color-scheme: light
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-remote-theme
+
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/ankitdotpy
+  - name: Twitter
+    icon: <i class="fa-brands fa-x-twitter"></i>
+    link: https://twitter.com/ankitd1321
+
+navigation:
+  - name: home
+    link: ./index.html
+    # sublist:
+    #   - name: Image
+    #     link: ./index.html#small-image
+  - name: blog
+    link: ./blog.html
+  
+  - name: cv
+    link: https://drive.google.com/file/d/1iFxnlbLB0z0-y-fiFufRHZGu6datWLG0/view
+
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
