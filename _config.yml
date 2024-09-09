@@ -2,7 +2,7 @@ title: Ankit Dhiman
 logo: /assets/img/logo.jpg
 email: dhimanankit262@gmail.com
 description: My journey trying to create my dent in the universe.
-favicon: true
+favicon: false
 color-scheme: light
 
 plugins:
@@ -17,7 +17,7 @@ platforms:
     link: https://github.com/ankitdotpy
   - name: Twitter
     icon: <i class="fa-brands fa-x-twitter"></i>
-    link: https://twitter.com/ankitd1321
+    link: https://twitter.com/ankitontwt
 
 navigation:
   - name: home
@@ -29,6 +29,6 @@ navigation:
     link: blog.html
   
   - name: cv
-    link: https://drive.google.com/file/d/1iFxnlbLB0z0-y-fiFufRHZGu6datWLG0/view
+    link: https://drive.google.com/file/d/1VnALwO93HvIm0gP3tsJCqxH_XugfkVtk/view
 
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
